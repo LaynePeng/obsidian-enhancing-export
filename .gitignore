@@ -5,3 +5,9 @@
 /.env.local
 /.idea
 package-lock.json
+.DS_Store
+
+# local plugin runtime / build output
+/data.json
+/main.js
+/styles.css
